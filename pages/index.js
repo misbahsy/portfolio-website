@@ -191,8 +191,8 @@ export default function Portfolio() {
                 <CardTitle>University of South Alabama</CardTitle>
               </CardHeader>
               <CardContent>
-                <p>Master's Degree and Bachelor's Degree in Chemical Engineering</p>
-                <p className="text-sm text-gray-300">Bachelor's: May 2012 | Master's: July 2014</p>
+                <p>Master&apos;s Degree and Bachelor&apos;s Degree in Chemical Engineering</p>
+                <p className="text-sm text-gray-300">Bachelor&apos;s: May 2012 | Master&apos;s: July 2014</p>
               </CardContent>
             </Card>
           </Section>
